@@ -1,0 +1,6 @@
+framework module YHLoginTest {
+  umbrella header "YHLoginTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

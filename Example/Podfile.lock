@@ -1,0 +1,16 @@
+PODS:
+  - YHLoginTest (0.1.0)
+
+DEPENDENCIES:
+  - YHLoginTest (from `../`)
+
+EXTERNAL SOURCES:
+  YHLoginTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHLoginTest: a6ef93d6d5963bd312e14cc7540d25db02db0e4c
+
+PODFILE CHECKSUM: 06b3e558331ca24bece0b7113bae485459b8f4bf
+
+COCOAPODS: 1.9.3

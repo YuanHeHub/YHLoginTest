@@ -1,0 +1,6 @@
+framework module Pods_YHLoginTest_Example {
+  umbrella header "Pods-YHLoginTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
